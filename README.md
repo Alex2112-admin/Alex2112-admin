@@ -6,7 +6,8 @@ Mi especialidad es el  front-end y un poco de back - end
 ## Contacto
 
 - [Correo electrónico](alexandervera2112@gmail.com)
-- [LinkedIn]([https://www.linkedin.com/in/tu_usuario](https://www.linkedin.com/in/alexander-moran-3b8310191/))
+- [LinkedIn ![image](https://github.com/Alex2112-admin/Alex2112-admin/assets/85907651/5368f40d-887e-4fda-b006-53e9489e46bf)
+]([https://www.linkedin.com/in/tu_usuario](https://www.linkedin.com/in/alexander-moran-3b8310191/).
 
 
 ## Proyectos Destacados

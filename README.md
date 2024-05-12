@@ -1,16 +1,13 @@
-# [Tu Nombre de Usuario]
+# Alexander Moran 
 
-[Una breve descripción sobre ti y tus intereses.]
-
-## Sobre mí
-
-[Información sobre ti, tu experiencia, habilidades, proyectos destacados, etc.]
+Saludos,  Soy tecnólogo en el Desarrollo de Software desde el 2019.
+Mi especialidad es el  front-end, y un poco de back - end
 
 ## Contacto
 
-- [Correo electrónico](mailto:tu_correo@ejemplo.com)
-- [LinkedIn](https://www.linkedin.com/in/tu_usuario)
-- [Sitio web/blog](https://tu-sitio-web.com)
+- [Correo electrónico](alexandervera2112@gmail.com)
+- [LinkedIn]([https://www.linkedin.com/in/tu_usuario](https://www.linkedin.com/in/alexander-moran-3b8310191/))
+
 
 ## Proyectos Destacados
 
